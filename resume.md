@@ -28,7 +28,7 @@ Skills
 
 **Frameworks**: Ruby on Rails, Node.js, Express.js, Knockout.js, Django, Laravel, Angular, React.
 
-**Programming Languages** (C/C++, Python, Ruby, Go, Dart, Swift, Java, Kotlin, ABAP, ASP.Net)
+**Programming Languages** : C/C++, Python, Ruby, Go, Dart, Swift, Java, Kotlin, ABAP, ASP.Net.
 
 **Version Control:**  GIT, Subversion, Visual Studio Team Foundation Server.
 
@@ -84,9 +84,8 @@ Experience
 
 - Teaching Agile Methodologies for IT Team.
 
- 
 
-**KODEX FACTORY** Software Consulting Services                                                                                      (JAN 2017 – MAR 2019, Venezuela)                                                               
+**KODEX FACTORY** Software Consulting Services                                                                                      (JAN 2017 – MAR 2019, Venezuela)                                                            
 
 **Software Architect**
 
@@ -104,7 +103,6 @@ Experience
 
 •    Development of automation scripts with Python, Bash and GO.
 
- 
 
 **TEAMCREED**   Human Resources Colocation                                                                                                    (JUN 2014 – DEC 2016, Aruba)                                                                                 
 
@@ -129,7 +127,6 @@ Experience
 •    Ensuring that all technological practices adhere to regulatory standards.
 
 
-
 **“LISANDRO ALVARADO” UNIVERSITY**   Education                                                                                  (JAN 2005 – APR 2019, Venezuela)
 
 **Ordinary Professor**
@@ -143,7 +140,6 @@ Experience
 •    Creator of the programmatic content of the Diploma in Free Software, the first postgraduate program in Venezuela dedicated entirely to Free Software, as well as the instructional program of each subject included in said diploma. 
 
 •    Technology Coordinator of SEDUCLA, the university’s virtual platform.
-
 
 
 **SINCOR**   Oil Company                                                                                                                                   (JAN 2004 – JUL 2004, Venezuela)
@@ -161,7 +157,6 @@ Experience
 •    Fixed existing problems in legacy systems made in Perl, RPG and COBOL, successfully migrating them to more modern leagues and databases, without losing any historical data.
 
 
-
 **PLANETA NETWORKS** Software Development Agency                                                                           (MAY 2003 – JAN 2004, Venezuela)
 
 **Web Developer**
@@ -172,7 +167,6 @@ Experience
 
 •    Development of media players to display multimedia content (audio and streaming video) for broadband clients.  
                                                                                                                   
-
 **BANESCO**   Bank and Financial Services                                                                                                    (JUN 2000 – MAY 2003, Venezuela)
 
 **Systems Analyst**
@@ -186,7 +180,6 @@ Experience
 •    Developing a Content Management System (CMS) for Banesco.com (ASP.Net and SQL Server)  
 
 •   Development of Mobile Banking solution "Internet Celular Banesco" (WAP, XML, XSL, XSLT, Delphi and C++). 
-
 
 
 Education
@@ -206,7 +199,6 @@ Education
 
 - Specialty: Free Software
 - Oberta University of Catalonia. Barcelona, Spain.
-  
 
 **Computer Engineering ** (1994-2000). 
 
