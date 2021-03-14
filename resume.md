@@ -74,7 +74,7 @@ Experience
 
 **IACC PROFESSIONAL INSTITUTE** Online Education                                                              		                  (MAY 2019 – AUG 2021, Chile)                                 
 
-**Learning Management Systems Specialist **
+Learning Management Systems Specialist
 
 - LMS Platform Management & Administration (Moodle and BlackBoard)
 
