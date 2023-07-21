@@ -3,7 +3,7 @@ JOSÉ RAFAEL ROJAS MOGOLLÓN
 
 #### Software Engineer. Senior Software Architect. Full Stack Web Developer. 
 
-######  [joserojas.dev](https://joserojas.dev) | jrojas@gmail.com | +56 9 3756 9771  | Santiago de Chile.
+######  [joserojas.dev](https://joserojas.dev) | jrojas@gmail.com | Santiago de Chile.
 
 
 
