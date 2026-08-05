@@ -1,236 +1,149 @@
-JOSÉ RAFAEL ROJAS MOGOLLÓN
-======
+# JOSÉ RAFAEL ROJAS MOGOLLÓN
 
-#### Software Engineer. Senior Software Architect. Full Stack Web Developer. 
+#### Arquitecto de Soluciones Senior
 
-######  [joserojas.dev](https://joserojas.dev) | jrojas [at] gmail [dot] com | +56 9 3756 9771  | Santiago de Chile.
-
+###### Santiago, Chile | jrojas [at] gmail [dot] com | [linkedin.com/in/joserojasdev](https://linkedin.com/in/joserojasdev)
 
 
-Skills
-------
+Resumen profesional
+-------------------
 
-**Engineering**: Software Architecture, Project Planning and Control, Design Patterns.
-
-**Agile Metodologies**: Scrum, Kanban, XP.
-
-**UI + UX Tools**: Adobe xD, Sketch, Figma, InVision.
-
-**Web Development**: HTML5, CSS, Saas, Less, PHP, Javascript, Typescript, XML, JSON, REST.
-
-**Cross-Platform Application Development**: Python, Javascript, GO, Electron.
-
-**Mobile App Development**: Kotlin, Ionic, Flutter.
-
-**Operating Systems**: Linux, Mac, Windows, Unix, Chrome OS, OS/2.
-
-**Databases**: MySQL, PostgreSQL, SQLite, Maria DB, Mongo DB, Firebase, SQL Server
-
-**Frameworks**: Ruby on Rails, Node.js, Express.js, Knockout.js, Django, Laravel, Angular, React.
-
-**Programming Languages** : C/C++, Python, Ruby, Go, Dart, Swift, Java, Kotlin, ABAP, ASP.Net.
-
-**Version Control:**  GIT, Subversion, Visual Studio Team Foundation Server.
-
-**Linux Server Management**: CentOS, Ubuntu Server, Debian, Red Hat.
-
-**Containers**: Docker, Kubernetes.
-
-**Cloud Computing**: AWS, GCP, IBM Cloud.
+Arquitecto de Soluciones Senior con más de 20 años de experiencia en ingeniería y arquitectura de software, cloud computing, microservicios y metodologías ágiles. Especializado en el diseño de arquitecturas escalables, modernización de sistemas legacy y toma de decisiones tecnológicas estratégicas alineadas con los objetivos del negocio. Experiencia comprobada en entornos financieros de alta demanda. Sólidas habilidades en liderazgo técnico, mentoría de equipos y definición de estándares de calidad.
 
 
+Competencias clave
+------------------
 
-Experience
----------
-**SURA** Financial Services                                                                                                                                         (AUG 2019 – FEB 2021, Chile)
+- Diseño de arquitecturas de software escalables
+- Modernización de sistemas legacy
+- Cloud Computing: AWS, GCP, IBM Cloud
+- Microservicios y arquitectura hexagonal
+- Definición de estándares de desarrollo y calidad
+- Liderazgo técnico y mentoría de equipos
+- Metodologías ágiles: Scrum, Kanban, SAFe, XP
+- DevOps, CI/CD, Docker, Kubernetes
+- Gestión de stakeholders y requisitos
+- Planificación de infraestructura on-premise y cloud
 
-**Senior Software Architect**
 
-- Definition of the software architecture, technologies and development platforms to be used for each application to be developed (web, mobile, on premise or cloud-based architectures).
+Experiencia profesional
+-----------------------
 
- - Evaluation of legacy systems architecture and selection of alternatives for upgrading.
+### Cencosud
 
- - Definition of development best practices, tools, coding reviews and testing approach.
+**Arquitecto de Soluciones** | Abril 2026 - Presente
 
- - Lead technical and business meetings for the refinement of functional, non-functional and business requirements.
-
- - Detection and recovery of bugs and system failures.
-
-- Definition of on Premise and Cloud infrastructure required for new developments.
-
-- Document and communicate definitions, design and architectural decisions to the development team.
-
-- Testing and reviewing architecture and code, architectural patterns and coding standards.
-
-- Coaching the different development teams in Agile Methodologies and DevOps culture.
-
-- Programming scripts (Python, BASH and GO) for pipelines creation and process automation in GitLab.
-
-- Creation, monitoring and maintenance of Kubernetes clusters in IBM Cloud and GCP.
-
-- Evaluation of internal use applications in the organization (usability, costs, security, alternatives).
+- Diseño y evolución de arquitecturas de solución para iniciativas del ecosistema retail y omnicanal, alineando capacidades tecnológicas, necesidades del negocio y estrategia corporativa.
+- Liderazgo de definiciones técnicas junto con equipos de producto, desarrollo, seguridad, infraestructura y operaciones, facilitando decisiones oportunas y reduciendo riesgos durante la implementación.
+- Evaluación de sistemas existentes y definición de roadmaps de modernización e integración, promoviendo arquitecturas desacopladas, escalables y preparadas para el crecimiento.
+- Diseño de integraciones y APIs para mejorar la interoperabilidad entre plataformas, simplificar el intercambio de información y habilitar la reutilización de capacidades de negocio.
+- Definición y validación de atributos de calidad, incluyendo disponibilidad, rendimiento, seguridad, observabilidad, mantenibilidad y resiliencia.
+- Elaboración de diagramas, decisiones de arquitectura y documentación técnica mediante el modelo C4 y ADRs, fortaleciendo la trazabilidad y la comunicación entre equipos técnicos y stakeholders.
+- Acompañamiento técnico a los equipos durante todo el ciclo de vida de las soluciones, promoviendo buenas prácticas de desarrollo, automatización, DevSecOps y despliegue en entornos cloud.
+- Impulso de estándares y patrones de arquitectura que han permitido homogeneizar soluciones, mejorar su mantenibilidad y acelerar la evaluación técnica de nuevas iniciativas.
 
 ---
 
-**IACC PROFESSIONAL INSTITUTE** Online Education                                                              		                  (MAY 2019 – AUG 2021, Chile)                                 
+### Banco Itaú Chile
 
-**Learning Management Systems Specialist**
+**Arquitecto de Soluciones** | Abril 2021 - Marzo 2026
 
-- LMS Platform Management & Administration (Moodle and BlackBoard)
-
-- Development of automation scripts in Python and GO.
-
-- Managing and monitoring cloud servers.
-
-- Teaching Agile Methodologies for IT Team.
-
----
-
-**KODEX FACTORY** Software Consulting Services                                                                                      (JAN 2017 – MAR 2019, Venezuela)                                                            
-
-**Software Architect**
-
-•    On-Premise and Cloud based (AWS) Linux Servers Administration.
-
-•    Specialist in Agile Development Methodologies for web and mobile environments. 
-
-•    Web Interface Design based on usability-specific criteria. 
-
-•    Development of Cross-Platform Applications on Mac OS, GNU/Linux and Windows.
-
-•    Development of web applications with Ruby on Rails, Angular, Node.js, PHP/Laravel.
-
-•    Development of enterprise applications with ABAP.
-
-•    Development of automation scripts with Python, Bash and GO.
+- Definición y comunicación de la estrategia de arquitectura de software y del stack tecnológico, alineados con los requisitos.
+- Creación de diagramas y documentación exhaustiva por capa mediante el modelo C4 y otros estándares de la industria.
+- Evaluación de sistemas legacy y definición de arquitectura híbrida y roadmap de migración.
+- Definición de atributos de calidad y elaboración de arquitecturas que garantizan soluciones escalables.
+- Creación de documentos de estándares de desarrollo para elevar la calidad, seguridad y mantenibilidad del código.
+- Mentoría continua a equipos de TI en microservicios, arquitectura hexagonal, principios SOLID, Clean Code y buenas prácticas.
+- Optimización de infraestructura local y en la nube, reduciendo costos operativos.
 
 ---
 
-**TEAMCREED**   Human Resources Colocation                                                                                                    (JUN 2014 – DEC 2016, Aruba)                                                                                 
+### Seguros SURA
 
-**Chief Technology Officer (CTO)**
+**Arquitecto de Software Senior** | Agosto 2019 - Febrero 2021
 
-•    Creation of the scheme of the research and development objectives of the organization. 
-
-•    Research and implementation of collaborative tools for the team’s remote work.
-
-•    Definition of timelines for the development and deployment of all technological services.
-
-•    Planning, management and supervision of software development projects.
-
-•    Implementation of human resources tools for managing leads, skills and placement in other companies.
-
-•    Support for HR in recruitment and retention of talent.
-
-•    Executive decision-making on behalf of the company's technological requirements.
-
-•    Management of technological budgets and deadlines.
-
-•    Ensuring that all technological practices adhere to regulatory standards.
+- Definición de la arquitectura de software, las tecnologías y las plataformas para cada proyecto, alineadas con los objetivos empresariales.
+- Establecimiento de estándares de desarrollo, directrices de codificación y revisión automatizada de código con SonarQube.
+- Asesoramiento a equipos en metodologías ágiles, pruebas automatizadas y cultura DevOps.
+- Desarrollo de scripts en Python y Go para automatizar pipelines de CI/CD en GitLab.
+- Creación y administración de clústeres Kubernetes en IBM Cloud y GCP para mejorar la escalabilidad y optimizar costos.
 
 ---
 
-**“LISANDRO ALVARADO” UNIVERSITY**   Education                                                                                  (JAN 2005 – APR 2019, Venezuela)
+### Universidad Centroccidental "Lisandro Alvarado"
 
-**Ordinary Professor**
+**Profesor Ordinario** | Enero 2005 - Abril 2019
 
-•    Teacher of Operating Systems, Programming Languages, Mobile Development, Laboratory I  
-
-•    (C/C++), Laboratory II (Web Programming), Programming III (Low Level using Assembler)
-
-•    Graduate Teacher of the Fundamentals of Free Software.
-
-•    Creator of the programmatic content of the Diploma in Free Software, the first postgraduate program in Venezuela dedicated entirely to Free Software, as well as the instructional program of each subject included in said diploma. 
-
-•    Technology Coordinator of SEDUCLA, the university’s virtual platform.
+- Docencia de pregrado en Sistemas Operativos, Lenguajes de Programación, Desarrollo Móvil, C/C++, Assembler y Programación Web; docencia de postgrado en Fundamentos del Software Libre.
+- Coordinación de la Comisión para la Migración a Software Libre de la UCLA.
+- Creación del contenido programático del Diplomado en Software Libre y de las materias electivas Desarrollo Móvil I y II.
 
 ---
 
-**SINCOR**   Oil Company                                                                                                                                   (JAN 2004 – JUL 2004, Venezuela)
+### Banco Banesco
 
-**Web Developer**
+**Analista de Sistemas** | Junio 2000 - Mayo 2003
 
-•    Development of CSS and JavaScript-based solutions to improve the Interface of the Sincor website.
-
-•    Website optimization to improve load times of all website and web applications.
-
-•    Design and implementation internal system for monitoring oil tankers and their respective data, displayed on an interactive map based on Google Maps and powered by a webservice created in .Net that takes data from stored procedures in an Oracle database. 
-
-•    Design and planning of software projects, with their stages, tasks, resources, dependencies and milestones, achieving 90% success in the planning carried out.
-
-•    Fixed existing problems in legacy systems made in Perl, RPG and COBOL, successfully migrating them to more modern leagues and databases, without losing any historical data.
-
----
-
-**PLANETA NETWORKS** Software Development Agency                                                                           (MAY 2003 – JAN 2004, Venezuela)
-
-**Web Developer**
-
-•    Design and Development of Internet portals for Planeta Networks customers, based on ASP and XML.
-
-•    Development of a Content Management System (CMS) for websites developed by Planeta Networks. 
-
-•    Development of media players to display multimedia content (audio and streaming video) for broadband clients.  
-
----
-                                                                                                                  
-**BANESCO**   Bank and Financial Services                                                                                                    (JUN 2000 – MAY 2003, Venezuela)
-
-**Systems Analyst**
-
-•    Banesco.com's webmaster.
-
-•    Development of BanescOnline, Banesco homebanking (ASP, ASP.Net, C, AS400, Delphi, SQL Server).
-
-•    Site design, layout, and Banesco.com, along with creating forms for entering customer data. 
-
-•    Developing a Content Management System (CMS) for Banesco.com (ASP.Net and SQL Server)  
-
-•   Development of Mobile Banking solution "Internet Celular Banesco" (WAP, XML, XSL, XSLT, Delphi and C++). 
+- Desarrollo de BanescOnline, plataforma de banca por internet con ASP, ASP.Net, C#, AS400, Delphi y SQL Server.
+- Desarrollo de la solución de banca móvil "Internet Celular Banesco" con WAP, XML, XSLT, Delphi y C++.
+- Desarrollo de un servicio web para extraer en tiempo real noticias financieras de Reuters y Wall Street.
+- Diseño e integración de un sistema CMS para Banesco.com y de soluciones de pago en línea para comercio electrónico.
 
 
-Education
+Habilidades técnicas
+--------------------
+
+- **Arquitectura:** Microservicios, arquitectura hexagonal, DDD, CQRS, Event Sourcing, modelo C4, API REST, SOAP, diseño de APIs, SOLID y Clean Code.
+
+- **Cloud y DevOps:** AWS, GCP, IBM Cloud, Docker, Kubernetes, GitLab CI/CD, SonarQube y DevOps.
+
+- **Lenguajes:** Python, Go, Java, Rust, C/C++, Ruby, Dart, Swift, JavaScript, TypeScript, PHP, ABAP y ASP.Net.
+
+- **Frameworks:** Node.js, Angular, React, Django, Ruby on Rails, Laravel, Express.js, Flutter e Ionic.
+
+- **Bases de datos:** MySQL, PostgreSQL, MongoDB, Redis, MariaDB, Firebase, SQL Server y Oracle.
+
+- **Metodologías:** Scrum, Kanban, SAFe, XP, Scrumban y gestión ágil de proyectos.
+
+- **Diseño UI/UX:** Figma, Adobe XD, Sketch e InVision.
+
+- **Otras herramientas:** Git, GitHub, GitLab, SVN, Linux/Ubuntu Server, Moodle, Blackboard e IBM API Connect.
+
+
+Educación
 ---------
 
-**Master Scientiarum in Cs. Computer Science** (2006-2010). 
+- **Diplomado en Fintech** (2023) - Chicago University.
+- **Especialista en Metodologías Ágiles** (2023) - University Class Business School, Santiago, Chile.
+- **Magíster en Ciencias de la Computación, mención Ingeniería de Software** (2010) - Universidad Centroccidental "Lisandro Alvarado", Venezuela.
+- **Diplomado de Docencia en Educación Superior** (2008) - Universidad Centroccidental "Lisandro Alvarado", Venezuela.
+- **Postgrado en Dirección de Sistemas de Información basados en Software Libre** (2006) - Universitat Oberta de Catalunya, España.
+- **Ingeniería en Informática** (2000) - Universidad Centroccidental "Lisandro Alvarado", Venezuela.
 
-- Specialty: Software Engineering
-- "Lisandro Alvarado" University. Barquisimeto, Venezuela.
 
-**Educational Skills** (2007-2008). 
+Certificaciones y formación reciente
+-------------------------------------
 
-- Specialty: University Education.
-- "Lisandro Alvarado" University. Barquisimeto, Venezuela.
+- AWS Solutions Architect (2024).
+- AWS Cloud Practitioner (2023).
+- Arquitectura de Microservicios (2023).
+- Principios SOLID y Clean Code (2023).
+- IBM API Connect - Guía de Desarrollo (2022).
+- DDD, Eventos, CQRS y Microservicios (2022).
+- Microservicios Serverless en AWS (2022).
+- Diseño de Sistemas - Arquitectura de Software (2022).
+- BPMN para Analistas y Arquitectos Empresariales (2022).
+- Transición de Proyectos Ágiles (2022).
+- Fundamentos de Microservicios (2021).
+- APIs con Swagger y OpenAPI (2021).
+- Fundamentos de Arquitectura Empresarial (2021).
+- Scrum Foundation Professional Certificate (2020).
+- Cloud Computing Avanzado - DevOps Esencial (2020).
+- Kubernetes para Administradores TI (2020).
 
-**Postgraduate in Management of Information Systems** (2004-2006). 
 
-- Specialty: Free Software
-- Oberta University of Catalonia. Barcelona, Spain.
+Idiomas
+-------
 
-**Computer Engineering** (1994-2000). 
-
-- Specialty: Web Development.
-- "Lisandro Alvarado" University. Barquisimeto, Venezuela.
-
-Courses and Certifications
-------
-- Cloud Computing for IT (2020)
-- Cloud Computing for IT - Advanced (2020)
-- Essential DevOps (2020)
-- GitLab Essentials (2020)
-- Kubernetes for Essential IT Administrators (2020)
-- Scrum Foundation Professional Certificate (2020)
-- Software Architecture Foundations (2020)
-- Kanban Fundamentals for Software Development (2020)
-- Development of Hybrid Applications with Angular and Ionic (2018)
-- SEO: Natural Search Positioning (2017)
-- Developing Apps on Android Using Material Design  (2016)
-- Diploma in Digital Marketing (2016)
-- Designing Application Interfaces (UI and UX) (2015)
-- ABAP and WebDynpros Programming Academy (2010)
-
-Projects
---------
-**[Android Venezuela Blog](https://androidvenezuela.coml)** (2010-present)
-
-- Authored a series of articles covering a wide variety of topics and tools related to Android application development and use.
+- **Español:** Nativo.
+- **Inglés:** C1.
