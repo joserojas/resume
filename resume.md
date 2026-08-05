@@ -2,7 +2,7 @@
 
 #### Arquitecto de Soluciones Senior
 
-###### Santiago, Chile | [jrojas@gmail.com](mailto:jrojas@gmail.com) | +56 9 3189 0298 | [linkedin.com/in/joserojasdev](https://linkedin.com/in/joserojasdev)
+###### Santiago, Chile | [jrojas@gmail.com](mailto:jrojas@gmail.com) | [linkedin.com/in/joserojasdev](https://linkedin.com/in/joserojasdev)
 
 
 Resumen profesional
